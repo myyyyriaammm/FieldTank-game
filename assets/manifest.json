@@ -1,0 +1,23 @@
+{
+  "sprites": {
+    "soil_ok": {"file": "tiles.png", "x": 0, "y": 0, "w": 16, "h": 16},
+    "soil_dry": {"file": "tiles.png", "x": 16, "y": 0, "w": 16, "h": 16},
+    "soil_cracked": {"file": "tiles.png", "x": 32, "y": 0, "w": 16, "h": 16},
+    "grass": {"file": "tiles.png", "x": 48, "y": 0, "w": 16, "h": 16},
+    "farmer_happy": {"file": "farmer_happy.png"},
+    "farmer_neutral": {"file": "farmer_neutral.png"},
+    "farmer_worried": {"file": "farmer_worried.png"},
+    "maize_good": {"file": "crops.png", "x": 0, "y": 0, "w": 16, "h": 16},
+    "maize_mid": {"file": "crops.png", "x": 16, "y": 0, "w": 16, "h": 16},
+    "maize_bad": {"file": "crops.png", "x": 32, "y": 0, "w": 16, "h": 16},
+    "soy_good": {"file": "crops.png", "x": 0, "y": 16, "w": 16, "h": 16},
+    "soy_mid": {"file": "crops.png", "x": 16, "y": 16, "w": 16, "h": 16},
+    "soy_bad": {"file": "crops.png", "x": 32, "y": 16, "w": 16, "h": 16},
+    "sorghum_good": {"file": "crops.png", "x": 0, "y": 32, "w": 16, "h": 16},
+    "sorghum_mid": {"file": "crops.png", "x": 16, "y": 32, "w": 16, "h": 16},
+    "sorghum_bad": {"file": "crops.png", "x": 32, "y": 32, "w": 16, "h": 16},
+    "water_drop": {"file": "water_drop.png"},
+    "background": {"file": "background.png"},
+    "logo": {"file": "logo.png"}
+  }
+}

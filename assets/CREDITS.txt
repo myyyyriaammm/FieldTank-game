@@ -1,0 +1,6 @@
+FieldTank
+Placeholder tiles, farmer, crops and drops are drawn in code when files are missing.
+If you add assets/fonts/PressStart2P-Regular.ttf, that font is Press Start 2P by Cody Boisclair, SIL Open Font License.
+Add third-party sprite credits below this line. Do not copy art or text from other games.
+Satellite pixels, if lst_grid.json is present, are displayed from that file only.
+Tiny Farm by Kenney (www.kenney.nl), CC0 1.0. Farmer, crops, trees and bushes are from this pack; soil and grass tiles, the three farmer moods (small face edits) and the background are built from its tiles and palette with tools/build_assets.py. Soy uses the closest leafy-green plants because the pack has no soybean art.

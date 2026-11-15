@@ -1,0 +1,83 @@
+{
+  "_comment": "TEST DATA ONLY. Obviously fake round numbers. Not agronomic data. The game must never load this file.",
+  "farmer": "Sam",
+  "lat": 10.0,
+  "capacity_mm": 100,
+  "scenes": [
+    {
+      "year": 2000,
+      "title": "Scene 0",
+      "story": "Fake story 0.",
+      "rain_mm": 100,
+      "hot_days": 0,
+      "choices": [
+        {"crop": "Maïs", "irrigate": false, "yield_pct": 40, "stress_days": 30, "heat_days": 0, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Maïs", "irrigate": true, "yield_pct": 45, "stress_days": 20, "heat_days": 0, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]},
+        {"crop": "Soja", "irrigate": false, "yield_pct": 50, "stress_days": 25, "heat_days": 1, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Soja", "irrigate": true, "yield_pct": 55, "stress_days": 15, "heat_days": 1, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]},
+        {"crop": "Sorgho", "irrigate": false, "yield_pct": 60, "stress_days": 20, "heat_days": 2, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Sorgho", "irrigate": true, "yield_pct": 65, "stress_days": 10, "heat_days": 2, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]}
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "Scene 1",
+      "story": "Fake story 1.",
+      "rain_mm": 200,
+      "hot_days": 4,
+      "choices": [
+        {"crop": "Maïs", "irrigate": false, "yield_pct": 40, "stress_days": 30, "heat_days": 0, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Maïs", "irrigate": true, "yield_pct": 45, "stress_days": 20, "heat_days": 0, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]},
+        {"crop": "Soja", "irrigate": false, "yield_pct": 50, "stress_days": 25, "heat_days": 1, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Soja", "irrigate": true, "yield_pct": 55, "stress_days": 15, "heat_days": 1, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]},
+        {"crop": "Sorgho", "irrigate": false, "yield_pct": 60, "stress_days": 20, "heat_days": 2, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Sorgho", "irrigate": true, "yield_pct": 65, "stress_days": 10, "heat_days": 2, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]}
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "Scene 2",
+      "story": "Fake story 2.",
+      "rain_mm": 300,
+      "hot_days": 0,
+      "choices": [
+        {"crop": "Maïs", "irrigate": false, "yield_pct": 40, "stress_days": 30, "heat_days": 0, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Maïs", "irrigate": true, "yield_pct": 45, "stress_days": 20, "heat_days": 0, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]},
+        {"crop": "Soja", "irrigate": false, "yield_pct": 50, "stress_days": 25, "heat_days": 1, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Soja", "irrigate": true, "yield_pct": 55, "stress_days": 15, "heat_days": 1, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]},
+        {"crop": "Sorgho", "irrigate": false, "yield_pct": 60, "stress_days": 20, "heat_days": 2, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Sorgho", "irrigate": true, "yield_pct": 65, "stress_days": 10, "heat_days": 2, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]}
+      ]
+    },
+    {
+      "year": 2003,
+      "title": "Scene 3",
+      "story": "Fake story 3.",
+      "rain_mm": 400,
+      "hot_days": 4,
+      "choices": [
+        {"crop": "Maïs", "irrigate": false, "yield_pct": 40, "stress_days": 30, "heat_days": 0, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Maïs", "irrigate": true, "yield_pct": 45, "stress_days": 20, "heat_days": 0, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]},
+        {"crop": "Soja", "irrigate": false, "yield_pct": 50, "stress_days": 25, "heat_days": 1, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Soja", "irrigate": true, "yield_pct": 55, "stress_days": 15, "heat_days": 1, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]},
+        {"crop": "Sorgho", "irrigate": false, "yield_pct": 60, "stress_days": 20, "heat_days": 2, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Sorgho", "irrigate": true, "yield_pct": 65, "stress_days": 10, "heat_days": 2, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]}
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "Scene 4",
+      "story": "Fake story 4.",
+      "rain_mm": 500,
+      "hot_days": 0,
+      "choices": [
+        {"crop": "Maïs", "irrigate": false, "yield_pct": 40, "stress_days": 30, "heat_days": 0, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Maïs", "irrigate": true, "yield_pct": 45, "stress_days": 20, "heat_days": 0, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]},
+        {"crop": "Soja", "irrigate": false, "yield_pct": 50, "stress_days": 25, "heat_days": 1, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Soja", "irrigate": true, "yield_pct": 55, "stress_days": 15, "heat_days": 1, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]},
+        {"crop": "Sorgho", "irrigate": false, "yield_pct": 60, "stress_days": 20, "heat_days": 2, "irrigation_mm": 0, "min_water_pct": 20, "water_curve": [80, 40, 20]},
+        {"crop": "Sorgho", "irrigate": true, "yield_pct": 65, "stress_days": 10, "heat_days": 2, "irrigation_mm": 50, "min_water_pct": 60, "water_curve": [80, 70, 60]}
+      ]
+    }
+  ]
+}
